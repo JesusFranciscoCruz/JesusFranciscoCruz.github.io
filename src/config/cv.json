@@ -1,9 +1,9 @@
 {
     "basic": {
-        "name": "Paul Smith",
-        "job": "Software Engineer",
-        "summary": "Transforming challenges into opportunities with cutting-edge technology. Driven by a love for elegant, robust code.",
-        "cv_file_name": "paul_cv.pdf"
+        "name": "Jesus Francisco Cruz",
+        "job": "Desarrollador Full Stack",
+        "summary": "Ingeniero en computación dispuesto en aprender nuevas tecnologías y mejorar mis habilidades. Me apasiona el desarrollo de software y disfruto trabajando en proyectos desafiantes que requieren soluciones innovadoras.",
+        "cv_file_name": "Jesus_cv.pdf"
     },
     "experiences": [
         {
