@@ -1,6 +1,10 @@
 ---
 import { projects } from '../../../config/cv.json';
+import { contacto } from '../../../config/cv.json';
+
 import CardListSection from "./CardListSection.astro";
+
+
 ---
 
 <section class="bg-background">
@@ -15,7 +19,20 @@ import CardListSection from "./CardListSection.astro";
 
         
     </div>
-    
+    <CardListSection  items={projects} />
 </section>
 
-<CardListSection  items={projects} />
+<section class="bg-background">
+    <div class="container px-6 py-8 mx-auto">
+        <h1 class="text-3xl font-semibold text-center capitalize lg:text-4xl">
+            Contáctame
+        </h1>
+
+        <p class="mt-4 text-center text-offset">
+            Si te interesa saber más sobre mis proyectos o colaborar, no dudes en contactarme.
+        </p>
+
+        
+    </div>
+    <CardListSection  items={projects} />
+</section>
