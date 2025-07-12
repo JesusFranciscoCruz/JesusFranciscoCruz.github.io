@@ -78,15 +78,11 @@
     "socialLinks": [
         {
             "iconName": "Github",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "link": "https://github.com/JesusFranciscoCruz"
         },
         {
-            "iconName": "Facebook",
-            "link": "https://facebook.com"
-        },
-        {
-            "iconName": "Instagram",
-            "link": "https://instagram.com"
+            "iconName": "LinkedIn",
+            "link": "https://www.linkedin.com/in/ing-jes%C3%BAs-fco-cruz"
         }
     ]
 }
