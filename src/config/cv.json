@@ -58,11 +58,11 @@
     ],
     "menuItems": [
         {
-            "name": "About",
+            "name": "Acerca de",
             "link": "/"
         },
         {
-            "name": "Blog",
+            "name": "Sobtre mí",
             "link": "/blogs"
         }
     ],
