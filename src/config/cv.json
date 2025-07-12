@@ -35,22 +35,25 @@
     ],
     "projects": [
         {
-            "imageUrl": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=764&auto=format&fit=crop",
-            "title": "hello.com",
-            "type": "Website",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "title": "Net-Shopping",
+            "sub_title": "E-commerce",
+            "years": "Mayo 2025 - Agosto 2025",
+            "details": "Desarrollo de una plataforma e-commerce colaborativa aplicando la metodología ágil SCRUM. Participación activa en la programación con Java, JavaScript, HTML5, CSS y Bootstrap, uso de bases de datos relacionales, y gestión del código fuente mediante Git/GitHub. Enfocado en buenas prácticas de desarrollo, trabajo en equipo y control de versiones."
+        
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=764&auto=format&fit=crop",
-            "title": "Paul UI kit collections",
-            "type": "UI Kit",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "title": "Sistema de Acceso controlado con 2FA de Audio Digital",
+            "sub_title": "Sistema computacional",
+            "years": "Junio 2023 - Junio 2024",
+            "details": "Desarrollo de un sistema de autenticación de dos factores basado en audio, utilizando la técnica esteganográfica LSB para la inserción del NIP. Implementado en MATLAB y Audacity para el procesamiento de audio. "
+        
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=764&auto=format&fit=crop",
-            "title": "paul.com",
-            "type": "Website",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "title": "Punto de Venta de Uniformes",
+            "sub_title": "Sistema computacional",
+            "years": "Octubre 2023 - Enero 2024",
+            "details": "Desarrollo de una base de datos con interfaz gráfica en Java NetBeans para el registro y gestión de clientes, ventas y productos, utilizando MySQL."
+        
         }
     ],
     "menuItems": [
