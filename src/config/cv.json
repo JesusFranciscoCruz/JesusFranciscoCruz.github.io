@@ -5,7 +5,7 @@
         "summary": "Ingeniero en computación dispuesto en aprender nuevas tecnologías y mejorar mis habilidades. Me apasiona el desarrollo de software y disfruto trabajando en proyectos desafiantes que requieren soluciones innovadoras.",
         "cv_file_name": "Jesus_cv.pdf"
     },
-    "Experiencia laboral": [
+    "Experience": [
         {
             "title": "Analista de sistemas administrador de aplicaciones",
             "sub_title": " Grupo Financiero Inbursa.",
@@ -19,7 +19,7 @@
             "details": "Llevé a cabo la instalación y configuración de servidores y clientes de monitoreo en entornos productivos de PEMEX, desarrollando scripts en Linux para automatizar procesos clave. Las configuraciones implementadas permitieron el envío oportuno de reportes por correo electrónico, los cuales continúan en uso actualmente. Además, actualicé y di mantenimiento a software crítico, garantizando la operatividad continua del sistema."
         }
     ],
-    "educación": [
+    "education": [
         {
             "title": "Desarrollador Java Full Stack",
             "sub_title": "Generation México",
