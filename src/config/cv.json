@@ -56,6 +56,15 @@
         
         }
     ],
+    "contacto": [
+        {
+            "title": "Net-Shopping",
+            "sub_title": "E-commerce",
+            "years": "Mayo 2025 - Agosto 2025",
+            "details": "Desarrollo de una plataforma e-commerce colaborativa aplicando la metodología ágil SCRUM. Participación activa en la programación con Java, JavaScript, HTML5, CSS y Bootstrap, uso de bases de datos relacionales, y gestión del código fuente mediante Git/GitHub. Enfocado en buenas prácticas de desarrollo, trabajo en equipo y control de versiones."
+        
+        }
+    ],
     "menuItems": [
         {
             "name": "Acerca de",
