@@ -5,38 +5,32 @@
         "summary": "Ingeniero en computación dispuesto en aprender nuevas tecnologías y mejorar mis habilidades. Me apasiona el desarrollo de software y disfruto trabajando en proyectos desafiantes que requieren soluciones innovadoras.",
         "cv_file_name": "Jesus_cv.pdf"
     },
-    "experiences": [
+    "Experiencia laboral": [
         {
             "title": "Analista de sistemas administrador de aplicaciones",
             "sub_title": " Grupo Financiero Inbursa.",
             "years": "Febrero 2025 - Abril 2025",
-            "details": "Proporcionaba soluciones a las incidencias de las aplicaciones internas del banco y ambiente productivo, revisando configuraciones de los archivos properties y yamel desde el servidor,."
+            "details": "Resolví más de 150 incidencias en servidores de producción, brindando soporte técnico en entornos Linux y Windows. Utilicé herramientas como WebLogic, IIS y Flux para diagnóstico y recuperación, manteniendo contacto directo con usuarios y escalando casos críticos a las áreas correspondientes. Documenté y gestioné los casos en Jira, analicé configuraciones (.yaml, application.properties) y extraje logs con FileZilla para asegurar una atención oportuna y efectiva."
         },
         {
-            "title": "Software Engineer",
-            "sub_title": "Innovate Labs",
-            "years": "2018 - 2021",
-            "details": "Developed and maintained web applications for various clients. Key contributor in migrating legacy systems to cloud infrastructure."
-        },
-        {
-            "title": "Junior Developer",
-            "sub_title": "Creative Apps Studio",
-            "years": "2015 - 2018",
-            "details": "Worked on mobile app development, collaborating with design teams to create user-friendly applications."
+            "title": "Auxiliar en gerencia de servicios digitales",
+            "sub_title": "Corporativo PEMEX",
+            "years": "Julio 2024 - Enero 2025",
+            "details": "Llevé a cabo la instalación y configuración de servidores y clientes de monitoreo en entornos productivos de PEMEX, desarrollando scripts en Linux para automatizar procesos clave. Las configuraciones implementadas permitieron el envío oportuno de reportes por correo electrónico, los cuales continúan en uso actualmente. Además, actualicé y di mantenimiento a software crítico, garantizando la operatividad continua del sistema."
         }
     ],
-    "education": [
+    "educación": [
         {
-            "title": "Bachelor of Science in Computer Science",
-            "sub_title": "University of Modern Tech",
-            "years": "2015 - 2019",
-            "details": "Graduated with honors. Specialized in software development, data structures, and algorithms. Worked on various open-source projects and completed internships in tech companies."
+            "title": "Desarrollador Java Full Stack",
+            "sub_title": "Generation México",
+            "years": "Mayo 2025 - Agosto 2025",
+            "details": "Graduado con honores. Especializado en desarrollo de software. Trabajé en varios proyectos que ayudaron en mi formación como desarrollador Java Full Stack."
         },
         {
-            "title": "Master of Science in Software Engineering",
-            "sub_title": "Global Tech Institute",
-            "years": "2019 - 2021",
-            "details": "Focused on advanced algorithms, cloud computing, and full-stack development. Published research papers on scalable microservices architecture."
+            "title": "Ingeniería en Computación",
+            "sub_title": "Ingeniería en Computación, IPN ESIME Culhuacan",
+            "years": "Septiembre 2020 - Julio 2024",
+            "details": "Enfocado en algoritmos avanzados, computación en la nube y desarrollo full-stack. Publicó artículos de investigación sobre arquitectura de microservicios escalables."
         }
     ],
     "projects": [
