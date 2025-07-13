@@ -5,7 +5,7 @@ import type { CollectionEntry } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 
 export const getStaticPaths = async () => {
-    const blogs = await getCollection("Sobre mí");
+    const blogs = await getCollection("blogs");
     const paths = blogs.map(blog => {
         return {
             params: {
@@ -21,7 +21,7 @@ export const getStaticPaths = async () => {
 }
 
 type Props = {
-    blog: CollectionEntry<"Sobre mí">
+    blog: CollectionEntry<"blogs">
 }
 
 const {blog} = Astro.props;
