@@ -10,14 +10,7 @@ const { blog, isFirst } = Astro.props;
         {blog.data.title}
       </h2>
       
-      <time datetime={blog.data.datetime} class="block mt-3 text-sm text-offset">
-    {new Date(blog.data.datetime).toLocaleDateString('es-ES', {
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric'
-    })}
-  </time>
-
+  
       <p class="text-offset mt-4 line-clamp-2">{blog.data.description}</p>
     </div>
 
