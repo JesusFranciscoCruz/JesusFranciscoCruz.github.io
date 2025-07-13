@@ -30,6 +30,6 @@ const { page } = Astro.props;
 ---
 
 <Layout title={`Sobre mí`}>
-	<BlogList blogs={page?.data || []} />
-    <Pagination page={page} />
+  <BlogList blogs={page?.data || []} />
+  <!-- <Pagination page={page} /> ← Eliminado si ya no quieres los botones -->
 </Layout>
