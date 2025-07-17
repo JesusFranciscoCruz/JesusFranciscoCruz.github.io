@@ -70,7 +70,11 @@
   { "name": "Educación", "link": "#educacion" },
   { "name": "Proyectos", "link": "#proyectos" },
   { "name": "Contáctame", "link": "#contacto" },
-  { "name": "Sobre mí", "link": "/blog" }
+  {
+  "label": "Sobre mí",
+  "href": "/blogs"
+}
+  
     ],
     "socialLinks": [
         {
