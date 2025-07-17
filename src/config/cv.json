@@ -69,7 +69,8 @@
   { "name": "Inicio", "link": "#inicio" },
   { "name": "Educación", "link": "#educacion" },
   { "name": "Proyectos", "link": "#proyectos" },
-  { "name": "Contáctame", "link": "#contacto" }
+  { "name": "Contáctame", "link": "#contacto" },
+  { "name": "Sobre mí", "link": "/blog" }
     ],
     "socialLinks": [
         {
