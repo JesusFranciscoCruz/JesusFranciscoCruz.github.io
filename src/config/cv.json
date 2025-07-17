@@ -72,7 +72,7 @@
   { "name": "Contáctame", "link": "#contacto" },
   {
   "label": "Sobre mí",
-  "href": "/blogs"
+  "link": "/blogs"
 }
   
     ],
