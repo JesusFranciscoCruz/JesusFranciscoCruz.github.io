@@ -65,15 +65,11 @@
         
         }
     ],
-    "menuItems": [
-        {
-            "name": "Acerca de",
-            "link": "/"
-        },
-        {
-            "name": "Sobre mí",
-            "link": "/blogs"
-        }
+  "menuItems": [
+  { "name": "Inicio", "link": "#inicio" },
+  { "name": "Educación", "link": "#educacion" },
+  { "name": "Proyectos", "link": "#proyectos" },
+  { "name": "Contáctame", "link": "#contacto" }
     ],
     "socialLinks": [
         {
